@@ -1,0 +1,46 @@
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\bin\Debug\SportsCalendar.exe.config
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\bin\Debug\SportsCalendar.exe
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\bin\Debug\SportsCalendar.pdb
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\obj\Debug\App.g.cs
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar_MarkupCompile.cache
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar_MarkupCompile.lref
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\obj\Debug\MainWindow.baml
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar.g.resources
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar.Properties.Resources.resources
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar.exe
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar.pdb
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\obj\Debug\ListPage.g.cs
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\obj\Debug\ListPage.baml
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\obj\Debug\CalendarPage.g.cs
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\obj\Debug\CalendarPage.baml
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar.csproj.CopyComplete
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\bin\Debug\SportsCalendar.exe.config
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\bin\Debug\SportsCalendar.exe
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\bin\Debug\SportsCalendar.pdb
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar.csproj.AssemblyReference.cache
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar.csproj.SuggestedBindingRedirects.cache
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\obj\Debug\CalendarPage.g.cs
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\obj\Debug\ListPage.g.cs
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\obj\Debug\MainWindow.g.cs
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\obj\Debug\App.g.cs
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar_MarkupCompile.cache
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar_MarkupCompile.lref
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\obj\Debug\CalendarPage.baml
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\obj\Debug\ListPage.baml
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\obj\Debug\MainWindow.baml
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar.g.resources
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar.Properties.Resources.resources
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar.csproj.GenerateResource.cache
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar.csproj.CoreCompileInputs.cache
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar.csproj.CopyComplete
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar.exe
+C:\Users\m0q\source\repos\SportsCalendar\SportsCalendar\obj\Debug\SportsCalendar.pdb
